@@ -1,0 +1,16 @@
+/* Align icon to left */
+#Oque .items .item {
+  display: flex;
+  text-align: left;
+}
+
+/* Position icon */
+#Oque .items .item i {
+  margin-right: 1.3rem;
+  align-self: center;
+  margin-bottom: 0;
+}
+
+#contato .map {
+  flex: 2;
+}
