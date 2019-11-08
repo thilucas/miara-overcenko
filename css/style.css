@@ -197,7 +197,20 @@ p {
 }
 
 #Quem .img {
-  background: url(/img/foto.jpg) no-repeat center center/cover;
+  background: url(/img/justice.jpg) no-repeat center center/cover;
+}
+
+#Quem .img .img-text {
+  color: #444;
+  font-size: 1.2rem;
+  display: inline-flex;
+  justify-content: center;
+  flex-direction: column;
+  min-width: 100%;
+  min-height: 100%;
+  align-self: center;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.7);
 }
 
 /* Contato */
