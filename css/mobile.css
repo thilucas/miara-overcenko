@@ -1,3 +1,11 @@
+.l-heading {
+  font-size: 3rem;
+}
+
+#navbar {
+  font-size: 0.8rem;
+}
+
 #Oque .items {
   display: block;
   padding: 1rem;
